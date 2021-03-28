@@ -8,4 +8,6 @@ List of applications and utilities that are awesome
  - [Ardour](https://ardour.org/) Powerful and opensource daw for mac and linux
 
 # Hardware
+ - [Wireless earbuds](https://www.marshallheadphones.com/nl/en/mode-ii.html) what if airpods didn't suck dick
+ - [iPad pro](#) Amazing for notes, as a second screen and ok-ish speakers
  - [Macbook pro hub](https://www.bol.com/nl/p/9-in-1-multifunctionele-macbook-pro-hub-15-16-inch-adapter-3x-usb-3-0-3x-usb-c-5k-60hz-hdmi-ethernet-rj45-aux-jack-plug/9200000026887324/?s2a=) the first dongle that I don't mind to carry around, its sleek and acts like a stand.
